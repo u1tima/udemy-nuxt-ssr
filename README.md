@@ -1,4 +1,4 @@
-# Nuxt SSR teat app
+# Nuxt SSR test app
 
 ## Setup
 
